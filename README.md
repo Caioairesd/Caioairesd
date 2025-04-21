@@ -2,7 +2,7 @@
 
 **`Em busca do Fullstack | Aprendendo Python e Java`**
 
-Me chamo Caio Vinicius Aires da Silva. Estou no último ano do ensino médio e curso técnico em Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e estou sempre buscando aprender e evoluir na área.
+Me chamo Caio Vinicius. Estou no último ano do ensino médio e curso técnico em Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e estou sempre buscando aprender e evoluir na área.
 
 Tenho como objetivo me tornar um desenvolvedor fullstack, com foco principal no back-end. Atualmente, estudo Python, Java e SQL, além de me interessar por sistemas embarcados, automação e machine learning. Gosto de explorar como a tecnologia pode ser aplicada para resolver problemas reais e transformar o cotidiano das pessoas.
 
