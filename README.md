@@ -87,7 +87,7 @@ Tenho como objetivo me tornar um desenvolvedor fullstack, com foco principal no 
     alt="GitHub Stats" 
     height="120" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caioairesd&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=2" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioairesd&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=3" 
   />
 
 </p>
