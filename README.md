@@ -1,10 +1,12 @@
 # 🧑🏾‍💻 Caio Vinicius
 
-**`Em busca do Fullstack | Aprendendo Python e Java`**
+**`Fullstack em Construção | Do Back-end aos Dados"`**
 
-Me chamo Caio Vinicius Aires da Silva. Estou no último ano do ensino médio e curso técnico em Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e estou sempre buscando aprender e evoluir na área.
+Me chamo Caio Vinicius Aires da Silva. Estou no último ano do ensino médio e curso técnico em Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e estou sempre em busca de aprendizado e evolução na área.
 
-Tenho como objetivo me tornar um desenvolvedor fullstack, com foco principal no back-end. Atualmente, estudo Python, Java e SQL, além de me interessar por sistemas embarcados, automação e machine learning. Gosto de explorar como a tecnologia pode ser aplicada para resolver problemas reais e transformar o cotidiano das pessoas.
+Meu objetivo é me tornar um desenvolvedor fullstack, com foco principal no back-end e na área de dados. Atualmente, estudo Python, Java, SQL, além de me aprofundar em tecnologias como HTML, CSS, JavaScript e PHP.
+
+Tenho grande interesse por análise de dados, sistemas embarcados, automação e machine learning. Gosto de explorar como a tecnologia pode ser aplicada para resolver problemas reais, otimizar processos e transformar o cotidiano das pessoas por meio de soluções inteligentes.
 
 <p align="left">
 <a href="https://github.com/Caioaresd?tab=followers">
@@ -50,6 +52,38 @@ Tenho como objetivo me tornar um desenvolvedor fullstack, com foco principal no 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg"     
+/>
+<img 
+    align="left" 
+    alt="Php" 
+    title="Php"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
+/>
+<img 
+    align="left" 
+    alt="javascript" 
+    title="javaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="HTML" 
+    title="HTML"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"       
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"           
 />
 <img
     align="left" 
