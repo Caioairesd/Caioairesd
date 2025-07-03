@@ -18,7 +18,7 @@ Tenho grande interesse por análise de dados, sistemas embarcados, automação e
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Caioairesd?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/caioairesd?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
 <a href="https://instagram.com/caioairesd" target="_blank">
         <img
