@@ -120,8 +120,8 @@ Tenho grande interesse por análise de dados, sistemas embarcados, automação e
     align="left" 
     alt="GitHub Stats" 
     height="120" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioairesd&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=10" 
+    style="padding-right: 20px;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioairesd&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=5" 
   />
 
 </p>
