@@ -15,24 +15,22 @@ Apaixonado por tecnologia e curioso por natureza 💡
 
 ---
 
-<details>
-  <summary>Estatísticas 📊</summary>
-  
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=caioairesd&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-  />
+## 📊 Estatísticas GitHub
 
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="120" 
-    style="padding-right: 20px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioairesd&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=10" 
-  />
+<details>
+  <summary>Clique para visualizar</summary>
+  <br>
+
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <img src="https://streak-stats.demolab.com?user=caioairesd&theme=dark" alt="Streak de contribuições" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioairesd&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=10" alt="Top Tecnologias" />
+    
+  </div>
+
+  <br>
+
+  ![Troféus GitHub](https://github-profile-trophy.vercel.app/?username=caioairesd&theme=darkhub&margin-w=10&margin-h=10)
+
 </details>
+
 
