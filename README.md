@@ -11,7 +11,7 @@ Apaixonado por tecnologia e curioso por natureza 💡
 
 ### Linguagens e Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=java,php,python,js,html,css,mysql,linux,docker,kubernetes,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,php,c,python,js,html,css,mysql,linux,docker,kubernetes,git)](https://skillicons.dev)
 
 ---
 
