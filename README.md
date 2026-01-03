@@ -2,7 +2,7 @@
 
 **`Desenvolvimento de Sistemas | Infraestrutura & DevOps`**
 
-Técnico em Desenvolvimento de Sistemas e graduando em Ciência da computação, explorando áreas como desenvolvimento de software, DevOps, infraestrutura, dados, automação e IoT.  
+Técnico em Desenvolvimento de Sistemas e graduando em Ciência da Computação, explorando áreas como desenvolvimento de software, DevOps, infraestrutura, dados, automação e IoT.  
 
 Apaixonado por tecnologia e curioso por natureza 💡
 
