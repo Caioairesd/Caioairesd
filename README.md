@@ -15,7 +15,7 @@ Apaixonado por tecnologia e curioso por natureza 💡
 
 ---
 
-## 📊 Estatísticas GitHub
+## 🏆Troféus GitHub
 
 <details>
   <summary>Clique para visualizar</summary>
