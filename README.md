@@ -22,8 +22,7 @@ Apaixonado por tecnologia e curioso por natureza 💡
   <br>
 
   ![Troféus GitHub](https://github-profile-trophy.vercel.app/?username=Caioairesd&theme=darkhub&margin-w=10&margin-h=10)
-  <br>
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Caioairesd)](https://git.io/streak-stats)
+  
 </details>
 
 
